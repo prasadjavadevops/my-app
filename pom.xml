@@ -32,7 +32,7 @@
 	<distributionManagement>
 		<repository>
 		    <id>nexus</id>
-		    <url>http://54.197.176.59:8081/repository/myapp-release/</url>
+		    <url>http://35.86.229.107:8081/repository/mavenrepository/</url>
 		</repository>
   	</distributionManagement>
 	
